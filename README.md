@@ -22,6 +22,11 @@ Another blue button should appear to click: *Open Browser*.
 
 In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
 
+ A good README.md file has a link to the live deployed project.
+It helps the reader to understand what the project does, what technologies have been used, what features you'd like to add, and it also gives credit for any code that's been taken from other places such as libraries that you might have imported, or code you found on StackOverflow.
+A detailed README.md file can really help the reader to get a feel for your project and your vision as a developer.
+
+
 ## Updates Since The Instructional Video
 
 We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
